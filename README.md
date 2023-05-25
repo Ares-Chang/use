@@ -38,10 +38,10 @@ Things I am using
 ### Up to you
 
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation for Visual Studio Code
-- [Open in GitHub Button](https://marketplace.visualstudio.com/items?itemName=antfu.open-in-github-button) - Add a button to go to the GitHub on the status bar.
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
 - [File Nesting Updater](https://marketplace.visualstudio.com/items?itemName=antfu.file-nesting) - Auto updating for Anthony's file nesting config.
 - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - GitHub Pull Requests, Issues, and Notifications
+- [Open in GitHub Button](https://marketplace.visualstudio.com/items?itemName=antfu.open-in-github-button) - Add a button to go to the GitHub on the status bar.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code
 - [Goto definition alias](https://marketplace.visualstudio.com/items?itemName=antfu.goto-alias) - Go to definition following alias redirections
 - [Iconify IntelliSense](https://marketplace.visualstudio.com/items?itemName=antfu.iconify) - Intelligent Iconify previewing and searching for VS Code
