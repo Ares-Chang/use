@@ -27,3 +27,15 @@ Things I am using
 - [Volar](https://marketplace.visualstudio.com/items?itemName=vue.volar) - Vue 3 support Must-have
 - [UnoCSS](https://marketplace.visualstudio.com/items?itemName=antfu.unocss) - UnoCSS for VS Code
 - [Open in GitHub Button](https://marketplace.visualstudio.com/items?itemName=antfu.open-in-github-button) - Add a button to go to the GitHub on the status bar.
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - Run code snippet or code file for multiple languages.
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - Improve highlighting of errors, warnings and other language diagnostics.
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
+- [File Nesting Updater](https://marketplace.visualstudio.com/items?itemName=antfu.file-nesting) - Auto updating for Anthony's file nesting config.
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - AI pair programmer
+- [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) - GitHub Pull Requests, Issues, and Notifications
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code
+- [Goto definition alias](https://marketplace.visualstudio.com/items?itemName=antfu.goto-alias) - Go to definition following alias redirections
+- [Iconify IntelliSense](https://marketplace.visualstudio.com/items?itemName=antfu.iconify) - Intelligent Iconify previewing and searching for VS Code
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - Launch a development local Server with live reload feature for static & dynamic pages
+- [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - This allows you to open the current file in your default browser or application.
+- [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - Vim emulation for Visual Studio Code
