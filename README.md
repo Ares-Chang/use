@@ -5,7 +5,8 @@ Things I am using
 ## Editor
 
 - Editor: [VSCode](https://code.visualstudio.com/)
-- VS Code Settings & Extensions: [wait for update](./)
+- [Chrome Extensions](#chrome-extensions)
+- [VS Code Settings & Extensions](#vs-code-extensions)
 
 ## Chrome Extensions
 
