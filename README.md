@@ -45,3 +45,7 @@ Things I am using
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code
 - [Goto definition alias](https://marketplace.visualstudio.com/items?itemName=antfu.goto-alias) - Go to definition following alias redirections
 - [Iconify IntelliSense](https://marketplace.visualstudio.com/items?itemName=antfu.iconify) - Intelligent Iconify previewing and searching for VS Code
+
+## Windows Gadget
+
+- [uTools](https://u.tools/) - Gadget integration set, a new generation of efficiency tool platform.
