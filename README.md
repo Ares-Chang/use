@@ -54,3 +54,15 @@ Things I am using
 - [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/) - PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
 - [Twinkle Tray](https://twinkletray.com/) - Twinkle Tray lets you easily manage the brightness levels of multiple monitors.
 - [GifCam](https://blog.bahraniapps.com/gifcam/) - GifCam is easy and fun animated gif making app.
+
+## Interesting Website
+
+- [Code screenshot](https://ray.so/) - Turn your code into beautiful images.
+- [Netlify](https://www.netlify.com/) - Netlify is a platform for modern web projects.
+- [Vercel](https://vercel.com/) - Develop. Preview. Ship.
+- [Wallhaven](https://wallhaven.cc/) - Wallhaven is a site created by and for people who like wallpapers, as well as a place where anime fans can be treated mostly like normal human beings.
+- [Google Fonts](https://fonts.google.com/) - Google Fonts is a library of 1,064 free licensed font families and APIs for conveniently using the fonts via CSS and Android.
+
+## Podcast
+
+- [Anyway](https://anyway.fm/) - JJ & Leon talk about tech, life, and everything in between.
