@@ -48,4 +48,9 @@ Things I am using
 
 ## Windows Gadget
 
+- [snipaste](https://zh.snipaste.com/index.html) - Snipaste is a simple but powerful snipping tool.
 - [uTools](https://u.tools/) - Gadget integration set, a new generation of efficiency tool platform.
+- [Cmder](https://cmder.app/) - Cmder is a software package created out of pure frustration over the absence of nice console emulators on Windows.
+- [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/) - PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
+- [Twinkle Tray](https://twinkletray.com/) - Twinkle Tray lets you easily manage the brightness levels of multiple monitors.
+- [GifCam](https://blog.bahraniapps.com/gifcam/) - GifCam is easy and fun animated gif making app.
