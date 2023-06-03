@@ -20,7 +20,7 @@ Things I am using
 - [iTab New Tab](https://chrome.google.com/webstore/detail/itab%E6%96%B0%E6%A0%87%E7%AD%BE%E9%A1%B5%E5%85%8D%E8%B4%B9chatgpt/mhloojimgilafopcmlcikiidgbbnelip) - A fancier New Page
 - [书签侧边栏](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh) - Adds a toggleable sidebar with all your bookmarks at the edge of your browser window.
 - [Quick QR](https://chrome.google.com/webstore/detail/qr-code-generator/afpbjjgbdimpioenaedcjgkaigggcdpp) - A super handy QR Code Generator
-- [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) - Let's experience immersive web translation, with bilingual simultaneous display and translation of only the important content. 
+- [Immersive Translate](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh) - Let's experience immersive web translation, with bilingual simultaneous display and translation of only the important content.
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - Identify web technologies
 
 ## VS Code Extensions
@@ -54,6 +54,9 @@ Things I am using
 - [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/) - PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
 - [Twinkle Tray](https://twinkletray.com/) - Twinkle Tray lets you easily manage the brightness levels of multiple monitors.
 - [GifCam](https://blog.bahraniapps.com/gifcam/) - GifCam is easy and fun animated gif making app.
+- [7-zip](https://7-zip.org/) - 7-Zip is a file archiver with a high compression ratio.
+- [Apple Music](https://apps.microsoft.com/store/detail/apple-music-%E9%A2%84%E8%A7%88%E7%89%88/9PFHDD62MXS1) - Apple Music for Windows
+- [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg) - A Windows GUI based on Clash
 
 ## Interesting Website
 
