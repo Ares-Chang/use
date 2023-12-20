@@ -1,3 +1,7 @@
+<p align='center'>
+<b>简体中文</b> | <a href="https://github.com/Ares-Chang/use/blob/master/README.en-US.md">English</a>
+</p>
+
 # Use
 
 我正在使用的东西
@@ -66,7 +70,7 @@
 - [Netlify](https://www.netlify.com/) - Netlify 是一个现代网络项目的平台。
 - [Vercel](https://vercel.com/) - Develop. Preview. Ship.
 - [Wallhaven](https://wallhaven.cc/) - Wallhaven 是一个由喜欢壁纸的人创建的网站，也是一个动漫迷可以像普通人一样被对待的地方。
-- [Google Fonts](https://fonts.google.com/) - Google Fonts 是一个包含 1,064 个免费授权字体家族和 api 的库，可以通过CSS和Android方便地使用字体。
+- [Google Fonts](https://fonts.google.com/) - Google Fonts 是一个包含 1,064 个免费授权字体家族和 api 的库，可以通过 CSS 和 Android 方便地使用字体。
 - [Can I use](https://caniuse.com/) - "Can I use" 提供最新的浏览器支持表，以支持桌面和移动 web 浏览器上的前端 web 技术。
 
 ## 播客
