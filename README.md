@@ -1,5 +1,5 @@
 <p align='center'>
-<b>简体中文</b> | <a href="https://github.com/Ares-Chang/use/blob/master/README.en-US.md">English</a>
+  <b>简体中文</b> | <a href="https://github.com/Ares-Chang/use/blob/master/README.en-US.md">English</a>
 </p>
 
 # Use

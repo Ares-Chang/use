@@ -1,6 +1,6 @@
 <p align='center'>
-<a href="https://github.com/Ares-Chang/use/blob/master/README.md">简体中文</a>
-</p> | <b>English</b>
+  <a href="https://github.com/Ares-Chang/use/blob/master/README.md">简体中文</a> | <b>English</b>
+</p>
 
 # Use
 
