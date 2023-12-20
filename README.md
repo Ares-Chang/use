@@ -37,6 +37,7 @@
 - [UnoCSS](https://marketplace.visualstudio.com/items?itemName=antfu.unocss) - UnoCSS for VS Code
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - 将 ESLint 集成到 VS Code 中
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - 智能副驾驶，比你更懂你的代码。
+  - [codeium](https://codeium.com/) - Codeium 是一个开源的代码补全引擎，支持多种语言。(**它是免费的~**)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) - 使用简单的方法启动一个本地开发服务器。
 - [open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) - 帮助您在默认浏览器或应用程序中打开当前文件。
 - [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) - 运行多种语言的代码片段或代码文件。
