@@ -9,7 +9,9 @@ Things I am using
 ## Navigation
 
 - Editor: [VSCode](https://code.visualstudio.com/)
-- Shell: [Windows Terminal + PowerShell](https://areschang.top/else/tools/power-shell.html)
+- Shell:
+  - [Windows Terminal + WSL2 + Oh My Zsh](https://areschang.top/linux/wsl/zsh/oh-my-zsh)
+  - [Windows Terminal + PowerShell](https://areschang.top/else/tools/power-shell.html)
 - [Chrome Extensions](#chrome-extensions)
 - [VS Code Settings & Extensions](#vs-code-extensions)
 - [Windows Gadget](#windows-gadget)
