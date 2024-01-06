@@ -9,7 +9,9 @@
 ## 导航
 
 - 编辑器: [VSCode](https://code.visualstudio.com/)
-- Shell: [Windows Terminal + PowerShell](https://areschang.top/else/tools/power-shell.html)
+- Shell:
+  - [Windows Terminal + WSL2 + Oh My Zsh](https://areschang.top/linux/wsl/zsh/oh-my-zsh)
+  - [Windows Terminal + PowerShell](https://areschang.top/else/tools/power-shell.html)
 - [Chrome 扩展](#chrome-扩展)
 - [VS Code 扩展](#vs-code-扩展)
 - [Windows 小工具](#windows-小工具)
