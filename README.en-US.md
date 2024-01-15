@@ -61,8 +61,9 @@ Things I am using
 
 - [snipaste](https://zh.snipaste.com/index.html) - Snipaste is a simple but powerful snipping tool.
 - [uTools](https://u.tools/) - Gadget integration set, a new generation of efficiency tool platform.
-- [Cmder](https://cmder.app/) - Cmder is a software package created out of pure frustration over the absence of nice console emulators on Windows.
-- [PowerShell](https://docs.microsoft.com/zh-cn/powershell/) - PowerShell is a powerful open source command line and tool set。[My configuration document](https://areschang.top/else/tools/power-shell.html)
+- [Windows Terminal + WSL2 + Oh My Zsh](https://areschang.top/linux/wsl/) - A perfect combination. ([My configuration document](https://areschang.top/linux/wsl/zsh/oh-my-zsh))
+  - [~~Cmder~~](https://cmder.app/) - Cmder is a software package created out of pure frustration over the absence of nice console emulators on Windows.
+  - [~~PowerShell~~](https://docs.microsoft.com/zh-cn/powershell/) - PowerShell is a powerful open source command line and tool set。[My configuration document](https://areschang.top/else/tools/power-shell.html)
 - [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/) - PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity.
 - [Twinkle Tray](https://twinkletray.com/) - Twinkle Tray lets you easily manage the brightness levels of multiple monitors.
 - [GifCam](https://blog.bahraniapps.com/gifcam/) - GifCam is easy and fun animated gif making app.

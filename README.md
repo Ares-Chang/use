@@ -61,8 +61,9 @@
 
 - [snipaste](https://zh.snipaste.com/index.html) - 一个简单但功能强大的截图及贴图工具。
 - [uTools](https://u.tools/) - 小工具集成平台，新一代高效工具平台。
-- [Cmder](https://cmder.app/) - Cmder 是一个软件包，纯粹是出于对 Windows 上缺乏好的控制台模拟器的沮丧而创建的。
-- [PowerShell](https://docs.microsoft.com/zh-cn/powershell/) - PowerShell 是一个强大的开源命令行和工具集。[我的配置文档](https://areschang.top/else/tools/power-shell.html)
+- [Windows Terminal + WSL2 + Oh My Zsh](https://areschang.top/linux/wsl/) - 完美的组合。([我的配置文档](https://areschang.top/linux/wsl/zsh/oh-my-zsh))
+  - [~~Cmder~~](https://cmder.app/) - Cmder 是一个软件包，纯粹是出于对 Windows 上缺乏好的控制台模拟器的沮丧而创建的。
+  - [~~PowerShell~~](https://docs.microsoft.com/zh-cn/powershell/) - PowerShell 是一个强大的开源命令行和工具集。([我的配置文档](https://areschang.top/else/tools/power-shell.html))
 - [PowerToys](https://learn.microsoft.com/zh-cn/windows/powertoys/) - PowerToys 是一套实用程序，用于高级用户调整和简化他们的 Windows 体验，以提高生产力。
 - [Twinkle Tray](https://twinkletray.com/) - Twinkle Tray 让您轻松管理多个显示器的亮度水平。
 - [GifCam](https://blog.bahraniapps.com/gifcam/) - GifCam 是一个简单而有趣的制作 gif 动画应用程序。
