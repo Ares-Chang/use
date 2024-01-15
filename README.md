@@ -84,3 +84,4 @@
 - [Anyway](https://anyway.fm/) - JJ & Leon 谈论科技，生活，以及两者之间的一切。
 - [半拿铁 | 商业沉浮录](https://podcasts.apple.com/cn/podcast/%E5%8D%8A%E6%8B%BF%E9%93%81-%E5%95%86%E4%B8%9A%E6%B2%89%E6%B5%AE%E5%BD%95/id1615939013) - 财经媒体人和互联网老兵陪你闲聊商业见闻。
 - [代码之外](https://bento.me/beyondcode) - 代码之外 Beyond Code 是一档由 GeekPlux 和 Randy 共同主持的程序员闲聊播客节目。
+- [Web Worker](https://podcasts.apple.com/cn/podcast/web-worker-%E5%89%8D%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E9%83%BD%E7%88%B1%E5%90%AC/id1586927144) - Web Worker 播客是几个前端程序员闲聊的前端中文音频播客节目。节目将围绕程序员领域来瞎聊，聊资讯、聊职场、聊技术选型...... 只要是和 web 开发有关的都可以聊。

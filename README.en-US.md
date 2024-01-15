@@ -84,3 +84,4 @@ Things I am using
 - [Anyway](https://anyway.fm/) - JJ & Leon talk about tech, life, and everything in between.
 - [半拿铁 | 商业沉浮录](https://podcasts.apple.com/cn/podcast/%E5%8D%8A%E6%8B%BF%E9%93%81-%E5%95%86%E4%B8%9A%E6%B2%89%E6%B5%AE%E5%BD%95/id1615939013) - Financial media and Internet veterans to accompany you to chat about business.
 - [Beyond Code](https://bento.me/beyondcode) - Beyond Code is a programmer chat podcast co-hosted by GeekPlux and Randy.
+- [Web Worker](https://podcasts.apple.com/cn/podcast/web-worker-%E5%89%8D%E7%AB%AF%E7%A8%8B%E5%BA%8F%E5%91%98%E9%83%BD%E7%88%B1%E5%90%AC/id1586927144) - The Web Worker Podcast is a front-end Chinese audio podcast where several front-end programmers chat. The program will focus on the field of programmers, chat about information, talk about the workplace, talk about technology selection... As long as it is related to web development, you can talk about it.
